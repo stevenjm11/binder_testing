@@ -3,6 +3,4 @@ channels:
     - conda-forge
 dependencies:
     - util-linux
-    - pip
-    - pip:
-      - cli2man
+    - argparse-manpage
