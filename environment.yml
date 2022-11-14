@@ -2,6 +2,4 @@ name: binder_testing
 channels:
     - conda-forge
 dependencies:
-    - pip
-    - pip:
-      - cal
+    - util-linux
