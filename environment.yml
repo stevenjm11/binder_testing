@@ -2,4 +2,5 @@ name: binder_testing
 channels:
     - conda-forge
 dependencies:
-    - bsdmainutils
+    - util-linux
+    - man-pages
